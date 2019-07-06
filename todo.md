@@ -1,0 +1,3 @@
+- show longest streak
+- achievements(show under heatmap)
+- combo system
