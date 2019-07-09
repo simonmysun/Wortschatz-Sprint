@@ -1,3 +1,4 @@
 - show longest streak
 - achievements(show under heatmap)
 - combo system
+- three tiers memory system
